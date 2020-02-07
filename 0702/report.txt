@@ -1,0 +1,139 @@
+ceccs18c23
+John Jafer Janaky
+
+--------------------------------
+#1: LINUX COMMANDS
+---------------------------------
+Command/Shell script/Program nam
+
+---------------------------------
+
+Input: (If relevant)
+---------------
+1  gedit report.txt
+    2  exit
+    3  mkdir cec18c23
+    4  rmdir cec18c23
+    5  mkdir ceccs18c23
+    6  cd ceccs18c23
+    7  mkdir cs232
+    8  cd cs232
+    9  mkdir 0702
+   10  cd0702
+   11  cd 0702
+   12  script work.txt
+   13  script report.txt
+   14  gedit work.txt
+   15  ls
+   16  cat abc.txt
+   17  cat >abc.txt
+   18  cat >xyz.txt
+   19  ls
+   20  cat abc.txt
+   21  ll
+   22  sort -n xyz.txt
+   23  ls
+   24  cat abc.txt
+   25  gedit work.txt
+   26  ls
+   27  cat abc.txt xyz.txt
+   28  exit
+   29  cd ceccs18c23
+   30  cd 0702
+   31  cd cs232
+   32  cd 0702
+   33  ls
+   34  gedit work.txt
+   35  cat abc.txt
+   36  cat xyz.txt
+   37  sort -n abc.txt
+   38  sort +c abc.txt
+   39  cut -f3 abc.txt
+   40  join abc.txt xyz.txt
+   41  sort -n xyz.txt
+   42  join abc.txt xyz.txt
+   43  paste abc.txt xyz.txt
+   44  grep maalu xyz.txt
+   45  grep -c
+   46  grep -c xyz.txt
+   47  grep -o *xyz.txt*
+   48  grep -c maalu
+   49  grep -c */xyz.txt/*
+   50  grep abhi xyz.txt
+   51  cut -b 1,2,3 xyz.txt
+   52  grep abh xyz.txt
+   53  history
+   54  grep abhi xyz.txt
+   55  script work.txt
+   56  cd ceccs18c23
+   57  cd cs232
+   58  cd 0702
+   59  script work.txt
+   60  history
+
+--------------------------------
+command: ls
+ output: 
+abc.txt  report.txt  work.txt  xyz.txt
+
+command: cat xyz.txt
+output:
+Abhijith
+Maalu
+JUstin
+Amal
+Kok
+
+command: sort -n abc.txt
+output:
+4
+5
+6
+7
+8
+
+command : sort -n xyz.txt
+output:
+Abhijith
+Amal
+JUstin
+Kok
+Maalu
+
+command : cut -b 1,2,3 xyz.txt
+output:
+abhi
+amal
+just
+kok
+maal
+
+command:  paste abc.txt xyz.txt
+output: 
+8	Abhijith
+7	Maalu
+6	JUstin
+5	Amal
+4	Kok
+
+
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+-------------------------------------
+-------------------------------------
+#2:
+
+#3:
+
+#4:
+
+#5:
+
+
